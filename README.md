@@ -61,4 +61,4 @@ python -m pip install -r requirements.txt
 
 ### Contato
 
-Se tiver dúvidas ou preocupações, entre em contato: q30zhang@gmail.com.
+Se tiver dúvidas ou preocupações, entre em contato: stanley_ferreira_@outlook.com.
